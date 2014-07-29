@@ -24,6 +24,6 @@ This is more of an island terrain with existing water level.  You can see a simp
 
 ### Source Code
 
-Starting point is [tutorial from Riemer Grootjans](http://www.riemers.net/eng/Tutorials/XNA/Csharp/series4.php). This early [commit show my work](https://github.com/mikerandrup/XNA_WaterFlow3D/commit/134e654f60b0dff71a5402227d2f058122ae1c86) between the base tutorial and full water simulation.
+Starting point is [tutorial from Riemer Grootjans](http://www.riemers.net/eng/Tutorials/XNA/Csharp/series4.php). This early [commit shows my work](https://github.com/mikerandrup/XNA_WaterFlow3D/commit/134e654f60b0dff71a5402227d2f058122ae1c86) between the base tutorial and full water simulation.
 
 <script type="text/javascript" src="/javascript/youtube-video-sizer.js"></script>
