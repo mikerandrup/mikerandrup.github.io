@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Find Point along Bezier Curve in JavaScript"
-date:   2012-08-31 12:00:00
+date:   2012-08-15 12:00:00
 categories: javascript graphics
 ---
 
